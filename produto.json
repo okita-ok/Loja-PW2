@@ -1,0 +1,9 @@
+{
+    "name": "celular samsung",
+    "preco": 2000,
+    "tags":["hardware", "samsung"],
+    "details": {
+        "memory": "16gb",
+        "ssd": "28GB"
+    }
+}
